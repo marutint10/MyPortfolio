@@ -10,7 +10,7 @@ import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
 const data = [
   { number: 20, text: "Projects" },
   { number: 10, text: "Research paper" },
-  { number: 20, text: "Github Stars" },
+  { number: 50, text: "Github Stars" },
   { number: 5, text: "Awarded for Academics" },
 ];
 
