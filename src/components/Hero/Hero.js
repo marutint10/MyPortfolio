@@ -21,7 +21,7 @@ const Hero = (props) => (
         <Button
           onClick={() =>
             (window.location =
-              "https://drive.google.com/file/d/1_v4sxqnJHrolHHNP6V7-b5o7ePGjPI4O/view?usp=sharing")
+              "https://drive.google.com/file/d/1yLLxWY6wVkTGTFUMNtxVFJFoR7BikSZa/view?usp=sharing")
           }
         >
           Download CVV
