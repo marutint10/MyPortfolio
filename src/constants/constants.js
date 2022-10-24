@@ -42,8 +42,8 @@ export const projects = [
   {
     title: "EthSwap",
     description:
-      "Ethswap is a full-stack blockchain application in which I build a token named dapp token which will be swapped with ether. Ethswap is a cryptocurrency exchange which is powered by Ethereum blockchain. It allows us to buy and sell Ethereum cryptocurrency at a fixed price.",
-    image: "/images/6.jpg",
+      "SilverLine swap is a full-stack blockchain application in which I build a token named SilverLine which will be swapped with binance. It is a cryptocurrency exchange through which user can buy sell the silverline token. It allows us to buy and sell binance cryptocurrency at a fixed price.",
+    image: "/images/6.png",
     source: "https://github.com/marutint10/EthSwap.git",
     id: 5,
   },
