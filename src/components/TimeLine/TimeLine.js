@@ -67,12 +67,13 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Strong in design and integration with initiative problem-solving skills.
-        Passionate about implementing and launching new projects. Ability to
-        translate business requirements into technical solutions. Always
-        interested in learning something new and always interested in hearing
-        about how someone self-improved, big human performance junkie. Looking
-        to start the career as an entry-level Blockchain developer.{" "}
+        A self-taught developer. Strong in design and integration with
+        initiative problem-solving skills. Passionate about implementing and
+        launching new projects. Ability to translate business requirements into
+        technical solutions. Always interested in learning something new and
+        always interested in hearing about how someone self-improved, big human
+        performance junkie. Looking to start the career as an entry-level
+        Blockchain developer.{" "}
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
