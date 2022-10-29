@@ -40,9 +40,9 @@ export const projects = [
     id: 4,
   },
   {
-    title: "EthSwap",
+    title: "SilverLineSwap",
     description:
-      "SilverLine swap is a full-stack blockchain application in which I build a token named SilverLine which will be swapped with binance. It is a cryptocurrency exchange through which user can buy sell the silverline token. It allows us to buy and sell binance cryptocurrency at a fixed price.",
+      "SilverLine swap is a full-stack blockchain application in which I build a token named SilverLine which will be swapped with binance. It is a cryptocurrency exchange through which user can buy sell the silverline token. It allows us to buy and sell token at a fixed price.",
     image: "/images/6.png",
     source: "https://github.com/marutint10/EthSwap.git",
     id: 5,
